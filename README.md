@@ -1,2 +1,2 @@
 # Real-time-Mean-Computation-Hardware-Architecture
-Computes the arithmetic mean in real-time from N % filled RAM memory, where N = [0,100]
+The designed architecture is capable of computing arithmetic mean of any arbitrary sequence of numbers, given as input having a fixed-point notation. Using a novel bypass, shift-and-add circuitry, the architecture was tested using a data-set of 20 fixed-point numbers with 16-bit word size from a pre-built memory controller module. All the results were achieved in Xilinx Vivado 2019.
